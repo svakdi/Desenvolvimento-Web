@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+
+<body>
+    <center>
+        <h1>Copa do Mundo 2026</h1>
+    </center>
+    <a href="#">Início</a>&nbsp;&nbsp;
+    <a href="#Países Anfitrões"> Países Anfitrões </a>&nbsp;&nbsp;
+    <a href="#Cidades Sedes"> Cidades Sedes </a>&nbsp;&nbsp;
+    <a href="#Período de Disputa "> Período de Disputa  </a>&nbsp;&nbsp;
+
+    <p>A Copa do Mundo <a href="https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026" target="_self"> FIFA </a>  de 2026 será a maior da história e a primeira disputada em três países ao mesmo tempo.</p>
+    <p>48 seleções disputarão a copa, divididas em 12 grupos com 4 seleções cada.</p>
+
+<p id="Países Anfitrões"> <h2> Países Anfitrões </h2> </p>
+    <p>Os países anfitrões estão na América do Norte:</p>
+    <ul>
+        <li>Estados Unidos </li>
+        <li>Canadá </li>
+        <li>México </li>
+    </ul>
+
+    <a href="#">Início</a>
+    <a href="#Cidades Sedes"> Cidades Sedes </a>&nbsp;&nbsp;
+    <a href="#Período de Disputa "> Período de Disputa  </a>
+    
+<p id="Cidades Sedes"> <h2> Cidades Sedes </h2> </p>
+    <p> Ao todo 16 cidades receberão os jogos da copa. </p>
+    <ul type="circle">
+        <li>
+            <h3>Estados Unidos</h3>
+            <p><b>11 Cidades</b></p>
+            <ol>
+                <li>Nova York / Nova Jersey</li>
+                <li>Los Angeles</li>
+                <li>Dallas</li>
+                <li>Boston</li>
+                <li>Houston</li>
+                <li>Miami</li>
+                <li>Atlanta</li>
+                <li>São Francisco</li>
+                <li>Kansas City</li>
+                <li>Filadélfia</li>
+                <li>Seattle</li>
+            </ol>
+        </li>
+        <li>
+            <h3>México</h3>
+            <p><b>3 Cidades</b></p>
+            <ol type="I">
+                <li>Cidade do México</li>
+                <li>Guadalara</li>
+                <li>Monterrey</li>
+            </ol>
+        </li>
+        <li>
+            <h3>Canadá</h3>
+            <p><b>2 Cidades</b></p>
+            <ol type="A">
+                <li>Toronto</li>
+                <li>Vancouver</li>
+            </ol>
+        </li>
+    </ul>
+     <a href="#Países Anfitrões"> Países Anfitrões </a> &nbsp;&nbsp;
+    <a href="#Período de Disputa "> Período de Disputa  </a>
+
+    <p id="Período de Disputa"> <h2>Período de Disputa </h2> </p>
+    <ul type="square">
+        <li><b>Abertura:</b> 11/06/26 - <strong>Estádio Asteca </strong>- <em>Cidade do México</em></li>
+        <li><b>Final:</b> 19/07/26 - <b><i>Metlife Stadium</i></b> -<i> Nova Jersey</i> </li>
+    </ul>
+    <a href="#Países Anfitrões"> Países Anfitrões </a>&nbsp;&nbsp;
+    <a href="#Cidades Sedes"> Cidades Sedes </a>
+    <hr>
+    <center><h6>Desenvolvimento Web - 1o. Período</h6></center>
+</body>
+
+</html>
