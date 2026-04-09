@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula Link</title>
+</head>
+<body>
+    <a href="http://www.google.com.br" title="Pesquisar aqui!"> Google </a> <br>
+    <a href="http://www.google.com.br" target="_self"> Google </a> <br>
+    <a href="https://www.uol.com.br/" target="_blank "> uol </a> <br>
+    <a href="#abaixo"> Ir parte de texto abaixo </a>
+    <pre>
